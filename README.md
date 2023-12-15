@@ -1,4 +1,5 @@
-# `Multi_Model-Chat-App`
+# Multi_Model-Chat-App
+<img align="right" width="200" height="200" src="assets/chatbot.jpg">
 
 ## `Overview`
 
