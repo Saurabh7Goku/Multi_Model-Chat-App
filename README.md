@@ -1,5 +1,6 @@
-# Multi_Model-Chat-App
-<img align="right" width="200" height="200" src="assets/chatbot.jpg">
+# Multi_Model-Chat-App 
+
+<img align="right" width="250" height="180" src="assets/chatbot.jpg">
 
 ## `Overview`
 
